@@ -1,6 +1,11 @@
 /// @description Hello World On Screen
 // Draw Hello World
 
-// Draw string for text.
+// Added halign center for horizontal text to center
+draw_set_halign(fa_center);
 
+// Draw string for text.
 draw_text(x, y, "Hello World, what's up?");
+
+// setting back to default setting
+draw_set_halign(fa_left);
