@@ -5,7 +5,7 @@
 draw_set_halign(fa_center);
 
 // Draw string for text.
-draw_text(x, y, "Hello World, what's up?");
+draw_text(x, y, text);
 
 // setting back to default setting
 draw_set_halign(fa_left);
