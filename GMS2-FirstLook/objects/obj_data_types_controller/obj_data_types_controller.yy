@@ -42,7 +42,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "32",
+            "value": "22",
             "varName": "line_height",
             "varType": 0
         },
@@ -59,6 +59,34 @@
             "value": "21",
             "varName": "age",
             "varType": 0
+        },
+        {
+            "id": "3251a746-a8aa-4fa0-a6ab-55d56997ad31",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "Pugh",
+            "varName": "last_name",
+            "varType": 2
+        },
+        {
+            "id": "c3ad5398-c9e2-4a20-bf05-e0746ff96b8a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "Malorie",
+            "varName": "first_name",
+            "varType": 2
         }
     ],
     "solid": false,
