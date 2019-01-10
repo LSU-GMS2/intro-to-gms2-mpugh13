@@ -7,7 +7,8 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "52b243ed-8928-4a87-9022-dfa483dbd8b9"
+        "52b243ed-8928-4a87-9022-dfa483dbd8b9",
+        "8056c809-a82b-4298-9334-24bb823df42b"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +26,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_7DC48247","id": "52b243ed-8928-4a87-9022-dfa483dbd8b9","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7DC48247","objId": "b09652da-34c0-4b74-ab97-3a0bf35d266b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 512,"y": 384}
+{"name": "inst_7DC48247","id": "52b243ed-8928-4a87-9022-dfa483dbd8b9","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7DC48247","objId": "b09652da-34c0-4b74-ab97-3a0bf35d266b","properties": [{"id": "522f830d-1efe-497c-98a2-d2b2d5c4e89a","modelName": "GMOverriddenProperty","objectId": "b09652da-34c0-4b74-ab97-3a0bf35d266b","propertyId": "699ceb42-14c5-4d34-a150-717df5b8db9e","mvc": "1.0","value": "Hello Dude, what's up?"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 512,"y": 384},
+{"name": "inst_15CC4548","id": "8056c809-a82b-4298-9334-24bb823df42b","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_15CC4548","objId": "b09652da-34c0-4b74-ab97-3a0bf35d266b","properties": [{"id": "b64b7b7d-3c47-4f30-aee9-ddb2493cf044","modelName": "GMOverriddenProperty","objectId": "b09652da-34c0-4b74-ab97-3a0bf35d266b","propertyId": "699ceb42-14c5-4d34-a150-717df5b8db9e","mvc": "1.0","value": "It's cold in room 217, isn't it?"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 512,"y": 448}
             ],
             "layers": [
 

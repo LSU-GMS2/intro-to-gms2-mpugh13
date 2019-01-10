@@ -1007,6 +1007,14 @@
             }
         },
         {
+            "Key": "6d2d83f9-2763-4327-b195-32608d62ae42",
+            "Value": {
+                "id": "bba12cf1-a4c6-44d0-8d52-058385968b52",
+                "resourcePath": "objects\\obj_data_types_controller\\obj_data_types_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6eafdd1a-f6e9-473f-ba22-0eba3637e88e",
             "Value": {
                 "id": "fc691504-8cff-424d-90de-693a91b9e976",
@@ -1820,6 +1828,14 @@
                 "id": "e6c32ac4-9c33-4d94-9a84-77e96f614ec5",
                 "resourcePath": "datafiles_yy\/TutorialContent\/images\/06_03_RMBNavigation.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "bb26ce9a-14d9-4937-9739-85ebd417f62d",
+            "Value": {
+                "id": "5c634ed5-bfa2-4088-a2ed-3cfab08fc118",
+                "resourcePath": "rooms\\rm_data_types\\rm_data_types.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

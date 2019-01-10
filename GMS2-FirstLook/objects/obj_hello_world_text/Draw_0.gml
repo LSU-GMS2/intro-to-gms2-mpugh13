@@ -1,4 +1,4 @@
-/// @description Hello World On Screen
+/// @description Draws Hello World, what's up? On Screen
 // Draw Hello World
 
 // Added halign center for horizontal text to center
