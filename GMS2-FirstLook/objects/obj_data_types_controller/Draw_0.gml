@@ -19,5 +19,35 @@ draw_text(room_width * .5, line_height * 4, "-300 in boolbean resolves to: " + s
 // string concatonation on fifth line
 draw_text(room_width * .5, line_height * 5, "Hello " + first_name + " " + last_name + "!" );
 
+// result of if statement on sixth line
+if (false)
+{
+	draw_text(room_width * .5, line_height * 6, "The if statement is true" );
+}
+else
+{
+	draw_text(room_width * .5, line_height * 6, "The if statement is false" );
+}
+
+// result of a comparison operator on seventh line
+if(age >= 18)
+{
+	draw_text(room_width * .5, line_height * 7, first_name + " is an adult." );
+}
+else
+{
+	draw_text(room_width * .5, line_height * 7, first_name + " is a minor." );
+}
+
+// result of a function that returns a boolbean on eight line
+if (keyboard_check(vk_space))
+{
+	draw_text(room_width * .5, line_height * 8, "You are pressing the space button" );
+}
+else
+{
+	draw_text(room_width * .5, line_height * 8, "You are not pressing the space button" );
+}
+
 // Return alignment to default setting
 draw_set_halign(fa_left);
