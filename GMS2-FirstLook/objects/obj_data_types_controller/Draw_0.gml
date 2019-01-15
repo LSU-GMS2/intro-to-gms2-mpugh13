@@ -49,5 +49,29 @@ else
 	draw_text(room_width * .5, line_height * 8, "You are not pressing the space button" );
 }
 
+// space for loop title on 10th line
+draw_text(room_width * .5, line_height * 10, "LOOPS" );
+
+// loop on 11th line using repeat
+loop_num = 0;
+
+// print what the value of loop_num on line 11
+draw_text(room_width * .5, line_height * 11, "loop_num equals: " + string(loop_num) );
+
+// repeat 5 times adding one each time
+repeat(5)
+{
+	loop_num = loop_num + 1;
+}
+
+// print value that loop_num is up after repeating 5 times on line 12
+draw_text(room_width * .5, line_height * 12, "loop_num now equals: " + string(loop_num) );
+
+// for loop that includes an index indicating which pass through the loop
+for (i = 0; i < 6; i=i+1)
+{
+	draw_text(room_height * .5, line_height * (13 + i), "For loop: " + string(i) );
+}
+
 // Return alignment to default setting
 draw_set_halign(fa_left);
