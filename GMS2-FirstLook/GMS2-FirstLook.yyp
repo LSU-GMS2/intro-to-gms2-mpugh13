@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "0e032796-e006-4e31-ab21-9732871a9208",
+            "Value": {
+                "id": "5daa17e0-3d2f-49ea-b5fc-8f5ca721428f",
+                "resourcePath": "sprites\\spr_square\\spr_square.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0f72091e-d0db-46cd-934b-cf66a9e11ff1",
             "Value": {
                 "id": "8893b09c-6878-4481-9367-1dc974bed92a",
@@ -1079,6 +1087,14 @@
             }
         },
         {
+            "Key": "758967d3-c04e-4f91-a442-5576481e59ad",
+            "Value": {
+                "id": "9f94780d-824c-49ec-8479-6135fd0073fd",
+                "resourcePath": "objects\\obj_square\\obj_square.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7687d62b-f957-4dfe-ae07-2fa9dd0044a2",
             "Value": {
                 "id": "94411c06-b41d-4051-855a-0135de85240a",
@@ -1423,6 +1439,14 @@
             }
         },
         {
+            "Key": "975759c0-a1a9-4f25-a788-5a06301fe008",
+            "Value": {
+                "id": "11b242f2-9ede-44ca-8fac-db3a2cc5a7f7",
+                "resourcePath": "sprites\\spr_circle\\spr_circle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "98b6ba00-a08d-4cab-9e21-18759fb1bacc",
             "Value": {
                 "id": "3b09cedf-ec43-46ae-87a7-41895377e191",
@@ -1532,6 +1556,14 @@
                 "id": "368efb08-b59b-4fea-b09d-30d4fc779c5c",
                 "resourcePath": "datafiles_yy\/TutorialContent\/images\/Header_Bar_Front.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a3a72032-55f0-4f55-b9d9-91bfdb60ea6d",
+            "Value": {
+                "id": "72f30ffc-914b-46ac-94db-fce75ba0e01f",
+                "resourcePath": "sprites\\spr_triangle\\spr_triangle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2119,6 +2151,14 @@
             }
         },
         {
+            "Key": "d8786039-4a98-4ece-8879-2da1e524100f",
+            "Value": {
+                "id": "4974c7bf-be7e-40b9-8a2c-a8060799e657",
+                "resourcePath": "objects\\obj_triangle\\obj_triangle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d8e92a28-0185-45ab-b0bd-b487987b3617",
             "Value": {
                 "id": "8b42f5a1-fd4e-4f8b-96fd-a3c386570928",
@@ -2164,6 +2204,14 @@
                 "id": "5ecd4334-837b-48a2-a827-68e191892c8a",
                 "resourcePath": "datafiles_yy\/TutorialContent\/ch3\/images\/SquareInGameCentered.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "de5ca80f-150d-47c2-9043-93878dcadfa5",
+            "Value": {
+                "id": "f6b1430a-f91b-4965-97fc-3dc3a4f871d8",
+                "resourcePath": "objects\\obj_circle\\obj_circle.yy",
+                "resourceType": "GMObject"
             }
         },
         {
