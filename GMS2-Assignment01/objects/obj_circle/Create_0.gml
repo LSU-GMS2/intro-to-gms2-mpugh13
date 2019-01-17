@@ -1,8 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+x = 512;
+y = 640;
 
-if(can_move)
-{
-	move_towards_point(832, 128, 5);
-}
+alarm[4] = 5 * 30;
