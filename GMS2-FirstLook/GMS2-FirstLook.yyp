@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "0df64aaa-5f6f-49ce-9eb4-4a04ca768eeb",
+            "Value": {
+                "id": "ea426d41-c8da-42e5-9224-82343f134903",
+                "resourcePath": "rooms\\rm_movement\\rm_movement.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0e032796-e006-4e31-ab21-9732871a9208",
             "Value": {
                 "id": "5daa17e0-3d2f-49ea-b5fc-8f5ca721428f",
@@ -1295,6 +1303,14 @@
             }
         },
         {
+            "Key": "8525bc64-63d7-49a8-b995-81c21a64fd32",
+            "Value": {
+                "id": "5485d48a-97e4-4ae1-9af7-efa1664a174a",
+                "resourcePath": "objects\\obj_square_movement\\obj_square_movement.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "85d5608f-fb73-4a91-b6eb-71223afcf6ea",
             "Value": {
                 "id": "cd287142-5627-4cc3-a126-9659c1417699",
@@ -1364,6 +1380,14 @@
                 "id": "6842062b-f97e-4dcf-93e5-243dff995f01",
                 "resourcePath": "datafiles_yy\/TutorialContent\/ch2\/images\/GameMakerCartesianPlanA.gif.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8c8a5954-d2cd-45ee-a006-127846c79a55",
+            "Value": {
+                "id": "0e48cddb-b6ac-4945-b692-d9db01d85318",
+                "resourcePath": "objects\\obj_movement_controller\\obj_movement_controller.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1836,6 +1860,14 @@
                 "id": "da5575f4-86e8-4e30-9c9a-c26548ffabc2",
                 "resourcePath": "datafiles_yy\/TutorialContent\/ch2\/images\/DrawRoomTitleMispelledFunction.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b62be7d6-206f-4c4a-af4c-8ea80f7517b7",
+            "Value": {
+                "id": "b6898351-e716-4601-a6e7-37ca970c9311",
+                "resourcePath": "scripts\\scr_movement_draw\\scr_movement_draw.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -2568,7 +2600,8 @@
         }
     ],
     "script_order": [
-        "18d04198-4e01-4612-af09-87f161af09b8"
+        "18d04198-4e01-4612-af09-87f161af09b8",
+        "b62be7d6-206f-4c4a-af4c-8ea80f7517b7"
     ],
     "tutorial": "datafiles"
 }
