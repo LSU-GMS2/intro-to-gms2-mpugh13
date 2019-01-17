@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "18d04198-4e01-4612-af09-87f161af09b8",
+            "Value": {
+                "id": "4908fff8-55b0-4cb0-9699-be70cee76725",
+                "resourcePath": "scripts\\scr_errors\\scr_errors.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1b7ba92c-6673-4668-81cf-d3b4368d16e6",
             "Value": {
                 "id": "b7b89de9-77ed-4371-a394-11708124bfe6",
@@ -468,6 +476,14 @@
                 "id": "47d42618-2ce8-4004-b611-d7fc2ffdd016",
                 "resourcePath": "datafiles_yy\/TutorialContent\/images\/04_02_Docking.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "33b37279-be56-4e9e-866e-5944c823523c",
+            "Value": {
+                "id": "f0a14896-8451-4778-b586-805d944a6b5e",
+                "resourcePath": "fonts\\fnt_title\\fnt_title.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -922,7 +938,7 @@
             "Key": "63d38673-2b42-48bb-9a16-34305e40d0e9",
             "Value": {
                 "id": "aec3fcff-cfe5-405c-803d-e5c2058ca0d9",
-                "resourcePath": "rooms\\room_hello_world\\room_hello_world.yy",
+                "resourcePath": "rooms\\rm_hello_world\\rm_hello_world.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -1044,6 +1060,14 @@
                 "id": "22feaf3e-359e-4412-8ee6-1781f84bbbfa",
                 "resourcePath": "datafiles_yy\/TutorialContent\/ch1\/images\/AddDrawObjDataType.gif.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "70551644-7b59-4a05-903a-830dbb652286",
+            "Value": {
+                "id": "d6eeb681-b04f-420c-ac3e-3b750f20d0de",
+                "resourcePath": "rooms\\rm_errors\\rm_errors.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1372,6 +1396,14 @@
                 "id": "15ef3f74-5353-4cb7-927f-b81292dfcd7f",
                 "resourcePath": "datafiles_yy\/TutorialContent\/ch1-page1-images\/ObjHelloWorld.gif.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "916fe5cf-be70-4a8c-baaf-58dd8c0fb676",
+            "Value": {
+                "id": "edec8fd2-917c-4b4b-884b-5be2819105c0",
+                "resourcePath": "objects\\obj_errors_controller\\obj_errors_controller.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -2536,7 +2568,7 @@
         }
     ],
     "script_order": [
-        
+        "18d04198-4e01-4612-af09-87f161af09b8"
     ],
     "tutorial": "datafiles"
 }

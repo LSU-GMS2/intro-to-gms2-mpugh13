@@ -1,6 +1,6 @@
 
 {
-    "name": "room_hello_world",
+    "name": "rm_hello_world",
     "id": "63d38673-2b42-48bb-9a16-34305e40d0e9",
     "creationCodeFile": "",
     "inheritCode": false,
