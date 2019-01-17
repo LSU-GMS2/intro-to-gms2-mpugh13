@@ -1,13 +1,14 @@
 # GameMaker Assignment #1
 
-John Smith
+Malorie Pugh
 
 This is my submission for Assignment #1.
 
 I had issues with:
-* issue 1
-* issue 2
-* issue 3
+* The difference between Draw and Create when it comes to making sprites work in a room (rm_).
+* Fixing errors, debugging, but of course that will take time and patience.
 
-Any other comments here
+Additional Comments:
+
+Hopefully, next time I will be able to think through errors easier. 
 
