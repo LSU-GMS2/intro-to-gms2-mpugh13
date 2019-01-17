@@ -1,11 +1,14 @@
 //Create a new circle on instance layer and s
-new_circle = instance_create_layer(0, 0, "Instances", obj_circle);
+foo = instance_create_layer(0, 0, "Instances", obj_circle);
 
 //Position circle in middle of room's horizontal center
-new_circle.x = room_width * .5;
+foo.x = room_width * .5;
 
 //Position circle in middle of room's vertical center
-new_circle.y = room_height * .5;
+foo.y = room_height * .5;
+
+//circle spinning
+//image_angle = image_angle + 5;
 
 //How many times to loop through repeat
 number_of_repeats = 5;
@@ -22,6 +25,9 @@ repeat(number_of_repeats)
 	new_square.x = (new_square.sprite_width + 64) * loop;
 	
 }
+
+//spinning squares
+//image_angle = image_angle - 5;
 
 //Loop counter
 loop = 0;
