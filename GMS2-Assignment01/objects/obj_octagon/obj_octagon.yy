@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_octagon",
     "eventList": [
-        
+        {
+            "id": "d081e32c-d0f1-482b-86f0-bce04ccd76c4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "8e328ed9-c206-4e22-b5f1-445648d22637"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
