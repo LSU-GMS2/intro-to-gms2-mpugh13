@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "0bc4263f-70fb-4678-844f-6b9f761733fd",
+            "Value": {
+                "id": "e5264d5d-24c3-45ef-a70f-cf0ebc495336",
+                "resourcePath": "objects\\obj_circle_movement\\obj_circle_movement.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0cfdce06-4b21-49cd-b8bf-9e1736a280a2",
             "Value": {
                 "id": "26d33097-cc88-4710-96ef-980485c5dcdb",
